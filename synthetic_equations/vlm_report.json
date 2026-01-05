@@ -1,0 +1,13 @@
+{
+  "images": 200,
+  "equations": 404,
+  "expression_exact": 341,
+  "expression_exact_rate": 0.844059405940594,
+  "result_match": 343,
+  "result_match_rate": 0.849009900990099,
+  "image_count_match": 197,
+  "image_count_match_rate": 0.985,
+  "image_all_correct": 146,
+  "image_all_correct_rate": 0.73,
+  "bad_json": 0
+}

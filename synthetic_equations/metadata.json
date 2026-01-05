@@ -1,0 +1,5504 @@
+[
+  {
+    "image": "images\\eq_0000.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "+",
+          "9",
+          "4",
+          "="
+        ],
+        "expression": "3+94=",
+        "value": 97.0
+      },
+      {
+        "tokens": [
+          "7",
+          "5",
+          "+",
+          "5",
+          "4",
+          "="
+        ],
+        "expression": "75+54=",
+        "value": 129.0
+      },
+      {
+        "tokens": [
+          "7",
+          "1",
+          "+",
+          "2",
+          "5",
+          "="
+        ],
+        "expression": "71+25=",
+        "value": 96.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0001.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "24/6=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0002.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "5",
+          "+",
+          "4",
+          "4",
+          "="
+        ],
+        "expression": "45+44=",
+        "value": 89.0
+      },
+      {
+        "tokens": [
+          "7",
+          "0",
+          "+",
+          "3",
+          "7",
+          "="
+        ],
+        "expression": "70+37=",
+        "value": 107.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0003.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "9",
+          "+",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "29+12=",
+        "value": 41.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "4*11=",
+        "value": 44.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0004.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "8",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "28/7=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0005.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "7*5=",
+        "value": 35.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0006.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "0",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "70/7=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0007.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "12*10=",
+        "value": 120.0
+      },
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "24/2=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "12/2=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0008.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "7",
+          "+",
+          "9",
+          "2",
+          "="
+        ],
+        "expression": "87+92=",
+        "value": 179.0
+      },
+      {
+        "tokens": [
+          "5",
+          "8",
+          "-",
+          "0",
+          "="
+        ],
+        "expression": "58-0=",
+        "value": 58.0
+      },
+      {
+        "tokens": [
+          "8",
+          "0",
+          "+",
+          "3",
+          "8",
+          "="
+        ],
+        "expression": "80+38=",
+        "value": 118.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0009.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "6",
+          "+",
+          "4",
+          "1",
+          "="
+        ],
+        "expression": "76+41=",
+        "value": 117.0
+      },
+      {
+        "tokens": [
+          "3",
+          "0",
+          "+",
+          "7",
+          "2",
+          "="
+        ],
+        "expression": "30+72=",
+        "value": 102.0
+      },
+      {
+        "tokens": [
+          "8",
+          "4",
+          "-",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "84-16=",
+        "value": 68.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0010.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "1",
+          "-",
+          "3",
+          "9",
+          "="
+        ],
+        "expression": "91-39=",
+        "value": 52.0
+      },
+      {
+        "tokens": [
+          "2",
+          "8",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "28-8=",
+        "value": 20.0
+      },
+      {
+        "tokens": [
+          "9",
+          "-",
+          "0",
+          "="
+        ],
+        "expression": "9-0=",
+        "value": 9.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0011.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "5",
+          "+",
+          "3",
+          "0",
+          "="
+        ],
+        "expression": "65+30=",
+        "value": 95.0
+      },
+      {
+        "tokens": [
+          "4",
+          "8",
+          "/",
+          "4",
+          "="
+        ],
+        "expression": "48/4=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0012.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "6",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "36/6=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "72/6=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "18/3=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0013.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "+",
+          "8",
+          "3",
+          "="
+        ],
+        "expression": "6+83=",
+        "value": 89.0
+      },
+      {
+        "tokens": [
+          "5",
+          "6",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "56/8=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0014.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "60/5=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0015.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "9/3=",
+        "value": 3.0
+      },
+      {
+        "tokens": [
+          "9",
+          "5",
+          "+",
+          "4",
+          "0",
+          "="
+        ],
+        "expression": "95+40=",
+        "value": 135.0
+      },
+      {
+        "tokens": [
+          "6",
+          "5",
+          "+",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "65+10=",
+        "value": 75.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0016.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "6",
+          "-",
+          "7",
+          "4",
+          "="
+        ],
+        "expression": "76-74=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "4*5=",
+        "value": 20.0
+      },
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "72/6=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0017.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "4",
+          "-",
+          "3",
+          "3",
+          "="
+        ],
+        "expression": "64-33=",
+        "value": 31.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0018.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "9",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "99/9=",
+        "value": 11.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0019.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "2*2=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0020.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "1",
+          "-",
+          "4",
+          "3",
+          "="
+        ],
+        "expression": "91-43=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "8",
+          "1",
+          "+",
+          "5",
+          "4",
+          "="
+        ],
+        "expression": "81+54=",
+        "value": 135.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0021.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "9",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "99/9=",
+        "value": 11.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0022.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "7",
+          "+",
+          "7",
+          "4",
+          "="
+        ],
+        "expression": "47+74=",
+        "value": 121.0
+      },
+      {
+        "tokens": [
+          "4",
+          "5",
+          "+",
+          "2",
+          "6",
+          "="
+        ],
+        "expression": "45+26=",
+        "value": 71.0
+      },
+      {
+        "tokens": [
+          "3",
+          "0",
+          "-",
+          "2",
+          "0",
+          "="
+        ],
+        "expression": "30-20=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0023.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "4",
+          "-",
+          "2",
+          "0",
+          "="
+        ],
+        "expression": "34-20=",
+        "value": 14.0
+      },
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "24/6=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "24/6=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0024.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "1*2=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "1",
+          "3",
+          "+",
+          "7",
+          "6",
+          "="
+        ],
+        "expression": "13+76=",
+        "value": 89.0
+      },
+      {
+        "tokens": [
+          "1",
+          "6",
+          "/",
+          "4",
+          "="
+        ],
+        "expression": "16/4=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0025.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "5",
+          "+",
+          "4",
+          "2",
+          "="
+        ],
+        "expression": "85+42=",
+        "value": 127.0
+      },
+      {
+        "tokens": [
+          "3",
+          "6",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "36/6=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0026.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "7",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "27/3=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "4*7=",
+        "value": 28.0
+      },
+      {
+        "tokens": [
+          "6",
+          "5",
+          "-",
+          "6",
+          "0",
+          "="
+        ],
+        "expression": "65-60=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0027.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "6",
+          "-",
+          "3",
+          "9",
+          "="
+        ],
+        "expression": "86-39=",
+        "value": 47.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0028.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "8",
+          "+",
+          "5",
+          "3",
+          "="
+        ],
+        "expression": "58+53=",
+        "value": 111.0
+      },
+      {
+        "tokens": [
+          "8",
+          "8",
+          "-",
+          "8",
+          "3",
+          "="
+        ],
+        "expression": "88-83=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0029.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "1",
+          "+",
+          "3",
+          "1",
+          "="
+        ],
+        "expression": "71+31=",
+        "value": 102.0
+      },
+      {
+        "tokens": [
+          "8",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "8*10=",
+        "value": 80.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0030.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "2",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "32/8=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "5",
+          "6",
+          "-",
+          "3",
+          "5",
+          "="
+        ],
+        "expression": "56-35=",
+        "value": 21.0
+      },
+      {
+        "tokens": [
+          "1",
+          "7",
+          "+",
+          "1",
+          "9",
+          "="
+        ],
+        "expression": "17+19=",
+        "value": 36.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0031.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "9*8=",
+        "value": 72.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "12/1=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0032.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "9",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "99/9=",
+        "value": 11.0
+      },
+      {
+        "tokens": [
+          "6",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "6/1=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0033.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "0",
+          "+",
+          "7",
+          "5",
+          "="
+        ],
+        "expression": "50+75=",
+        "value": 125.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0034.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "3",
+          "+",
+          "4",
+          "8",
+          "="
+        ],
+        "expression": "33+48=",
+        "value": 81.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0035.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "5/5=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "4",
+          "4",
+          "+",
+          "2",
+          "8",
+          "="
+        ],
+        "expression": "44+28=",
+        "value": 72.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0036.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "0",
+          "-",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "30-16=",
+        "value": 14.0
+      },
+      {
+        "tokens": [
+          "3",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "3*10=",
+        "value": 30.0
+      },
+      {
+        "tokens": [
+          "3",
+          "9",
+          "+",
+          "7",
+          "3",
+          "="
+        ],
+        "expression": "39+73=",
+        "value": 112.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0037.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "11*10=",
+        "value": 110.0
+      },
+      {
+        "tokens": [
+          "6",
+          "4",
+          "+",
+          "8",
+          "2",
+          "="
+        ],
+        "expression": "64+82=",
+        "value": 146.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "11*8=",
+        "value": 88.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0038.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "8",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "48/8=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "4",
+          "8",
+          "/",
+          "4",
+          "="
+        ],
+        "expression": "48/4=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "3",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "3*8=",
+        "value": 24.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0039.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "9*1=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "6",
+          "4",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "64/8=",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0040.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "4*7=",
+        "value": 28.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0041.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "7*12=",
+        "value": 84.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "4*2=",
+        "value": 8.0
+      },
+      {
+        "tokens": [
+          "2",
+          "7",
+          "-",
+          "2",
+          "4",
+          "="
+        ],
+        "expression": "27-24=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0042.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "6",
+          "="
+        ],
+        "expression": "4*6=",
+        "value": 24.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0043.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "1*1=",
+        "value": 1.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0044.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "8*8=",
+        "value": 64.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0045.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "2/2=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "1",
+          "9",
+          "+",
+          "1",
+          "9",
+          "="
+        ],
+        "expression": "19+19=",
+        "value": 38.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0046.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "9",
+          "-",
+          "6",
+          "6",
+          "="
+        ],
+        "expression": "99-66=",
+        "value": 33.0
+      },
+      {
+        "tokens": [
+          "7",
+          "8",
+          "+",
+          "9",
+          "4",
+          "="
+        ],
+        "expression": "78+94=",
+        "value": 172.0
+      },
+      {
+        "tokens": [
+          "7",
+          "0",
+          "-",
+          "2",
+          "2",
+          "="
+        ],
+        "expression": "70-22=",
+        "value": 48.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0047.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "*",
+          "4",
+          "="
+        ],
+        "expression": "1*4=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "8",
+          "0",
+          "-",
+          "3",
+          "3",
+          "="
+        ],
+        "expression": "80-33=",
+        "value": 47.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0048.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "+",
+          "2",
+          "1",
+          "="
+        ],
+        "expression": "7+21=",
+        "value": 28.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0049.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "12*7=",
+        "value": 84.0
+      },
+      {
+        "tokens": [
+          "7",
+          "6",
+          "+",
+          "5",
+          "="
+        ],
+        "expression": "76+5=",
+        "value": 81.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0050.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "7",
+          "+",
+          "8",
+          "6",
+          "="
+        ],
+        "expression": "97+86=",
+        "value": 183.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0051.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "4",
+          "-",
+          "5",
+          "5",
+          "="
+        ],
+        "expression": "74-55=",
+        "value": 19.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "11*2=",
+        "value": 22.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0052.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "0/9=",
+        "value": 0.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "2*7=",
+        "value": 14.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0053.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "6",
+          "-",
+          "4",
+          "6",
+          "="
+        ],
+        "expression": "66-46=",
+        "value": 20.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0054.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "8*12=",
+        "value": 96.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0055.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "0",
+          "-",
+          "3",
+          "9",
+          "="
+        ],
+        "expression": "70-39=",
+        "value": 31.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0056.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "2",
+          "+",
+          "1",
+          "9",
+          "="
+        ],
+        "expression": "82+19=",
+        "value": 101.0
+      },
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "24/8=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0057.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "5",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "35-8=",
+        "value": 27.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "12*5=",
+        "value": 60.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "6*9=",
+        "value": 54.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0058.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "3",
+          "-",
+          "4",
+          "9",
+          "="
+        ],
+        "expression": "73-49=",
+        "value": 24.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0059.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "3",
+          "-",
+          "4",
+          "="
+        ],
+        "expression": "63-4=",
+        "value": 59.0
+      },
+      {
+        "tokens": [
+          "1",
+          "6",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "16/2=",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0060.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "25/5=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0061.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "60/6=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "4*12=",
+        "value": 48.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0062.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "8",
+          "-",
+          "3",
+          "8",
+          "="
+        ],
+        "expression": "88-38=",
+        "value": 50.0
+      },
+      {
+        "tokens": [
+          "7",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "7*3=",
+        "value": 21.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0063.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "2",
+          "-",
+          "2",
+          "1",
+          "="
+        ],
+        "expression": "22-21=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "5",
+          "9",
+          "-",
+          "2",
+          "9",
+          "="
+        ],
+        "expression": "59-29=",
+        "value": 30.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "11*9=",
+        "value": 99.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0064.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "35/5=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "7",
+          "3",
+          "-",
+          "4",
+          "8",
+          "="
+        ],
+        "expression": "73-48=",
+        "value": 25.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0065.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "7",
+          "+",
+          "9",
+          "5",
+          "="
+        ],
+        "expression": "77+95=",
+        "value": 172.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0066.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "11*12=",
+        "value": 132.0
+      },
+      {
+        "tokens": [
+          "7",
+          "4",
+          "+",
+          "4",
+          "6",
+          "="
+        ],
+        "expression": "74+46=",
+        "value": 120.0
+      },
+      {
+        "tokens": [
+          "6",
+          "9",
+          "-",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "69-16=",
+        "value": 53.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0067.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "6",
+          "="
+        ],
+        "expression": "12*6=",
+        "value": 72.0
+      },
+      {
+        "tokens": [
+          "4",
+          "5",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "45/9=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0068.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "8",
+          "+",
+          "4",
+          "7",
+          "="
+        ],
+        "expression": "58+47=",
+        "value": 105.0
+      },
+      {
+        "tokens": [
+          "9",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "9/1=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "11*7=",
+        "value": 77.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0069.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "+",
+          "3",
+          "0",
+          "="
+        ],
+        "expression": "12+30=",
+        "value": 42.0
+      },
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "18/3=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0070.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "4*8=",
+        "value": 32.0
+      },
+      {
+        "tokens": [
+          "9",
+          "*",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "9*11=",
+        "value": 99.0
+      },
+      {
+        "tokens": [
+          "5",
+          "8",
+          "+",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "58+11=",
+        "value": 69.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0071.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "7",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "97-8=",
+        "value": 89.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0072.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "5",
+          "+",
+          "1",
+          "8",
+          "="
+        ],
+        "expression": "35+18=",
+        "value": 53.0
+      },
+      {
+        "tokens": [
+          "4",
+          "5",
+          "-",
+          "1",
+          "="
+        ],
+        "expression": "45-1=",
+        "value": 44.0
+      },
+      {
+        "tokens": [
+          "1",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "1*3=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0073.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "8",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "48/6=",
+        "value": 8.0
+      },
+      {
+        "tokens": [
+          "9",
+          "3",
+          "+",
+          "8",
+          "4",
+          "="
+        ],
+        "expression": "93+84=",
+        "value": 177.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0074.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "4",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "14/2=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "1",
+          "6",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "16-8=",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0075.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "8*9=",
+        "value": 72.0
+      },
+      {
+        "tokens": [
+          "5",
+          "7",
+          "-",
+          "5",
+          "5",
+          "="
+        ],
+        "expression": "57-55=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "1",
+          "0",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "10/2=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0076.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "2/2=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "9",
+          "5",
+          "+",
+          "9",
+          "4",
+          "="
+        ],
+        "expression": "95+94=",
+        "value": 189.0
+      },
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "60/6=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0077.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "4",
+          "-",
+          "1",
+          "9",
+          "="
+        ],
+        "expression": "84-19=",
+        "value": 65.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0078.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "1",
+          "-",
+          "5",
+          "4",
+          "="
+        ],
+        "expression": "71-54=",
+        "value": 17.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "6*1=",
+        "value": 6.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0079.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "+",
+          "9",
+          "5",
+          "="
+        ],
+        "expression": "11+95=",
+        "value": 106.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0080.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "5*12=",
+        "value": 60.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0081.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "6",
+          "+",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "86+10=",
+        "value": 96.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "4*9=",
+        "value": 36.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "11*11=",
+        "value": 121.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0082.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "+",
+          "2",
+          "6",
+          "="
+        ],
+        "expression": "0+26=",
+        "value": 26.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "6*2=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "4",
+          "8",
+          "-",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "48-16=",
+        "value": 32.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0083.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "5",
+          "+",
+          "2",
+          "="
+        ],
+        "expression": "55+2=",
+        "value": 57.0
+      },
+      {
+        "tokens": [
+          "2",
+          "8",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "28/7=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "6",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "6/6=",
+        "value": 1.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0084.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "9/9=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "3",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "3*2=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "9",
+          "9",
+          "-",
+          "4",
+          "4",
+          "="
+        ],
+        "expression": "99-44=",
+        "value": 55.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0085.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "7",
+          "-",
+          "1",
+          "9",
+          "="
+        ],
+        "expression": "77-19=",
+        "value": 58.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0086.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "60/6=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "60/5=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "8",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "8*8=",
+        "value": 64.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0087.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "8",
+          "+",
+          "7",
+          "6",
+          "="
+        ],
+        "expression": "78+76=",
+        "value": 154.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0088.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "7",
+          "-",
+          "4",
+          "1",
+          "="
+        ],
+        "expression": "77-41=",
+        "value": 36.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "12*2=",
+        "value": 24.0
+      },
+      {
+        "tokens": [
+          "6",
+          "4",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "64/8=",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0089.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "0",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "60/6=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "2",
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "20/5=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0090.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "4",
+          "-",
+          "3",
+          "9",
+          "="
+        ],
+        "expression": "44-39=",
+        "value": 5.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "12/6=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "4",
+          "6",
+          "+",
+          "3",
+          "9",
+          "="
+        ],
+        "expression": "46+39=",
+        "value": 85.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0091.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "7",
+          "-",
+          "9",
+          "="
+        ],
+        "expression": "37-9=",
+        "value": 28.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0092.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "10*3=",
+        "value": 30.0
+      },
+      {
+        "tokens": [
+          "6",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "6/1=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "12*8=",
+        "value": 96.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0093.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "11*10=",
+        "value": 110.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0094.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "7",
+          "-",
+          "2",
+          "5",
+          "="
+        ],
+        "expression": "77-25=",
+        "value": 52.0
+      },
+      {
+        "tokens": [
+          "9",
+          "1",
+          "+",
+          "6",
+          "6",
+          "="
+        ],
+        "expression": "91+66=",
+        "value": 157.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0095.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "5",
+          "-",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "55-11=",
+        "value": 44.0
+      },
+      {
+        "tokens": [
+          "5",
+          "0",
+          "+",
+          "6",
+          "4",
+          "="
+        ],
+        "expression": "50+64=",
+        "value": 114.0
+      },
+      {
+        "tokens": [
+          "4",
+          "0",
+          "+",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "40+12=",
+        "value": 52.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0096.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "7",
+          "-",
+          "9",
+          "0",
+          "="
+        ],
+        "expression": "97-90=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "4*3=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "2*1=",
+        "value": 2.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0097.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "0/9=",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0098.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "9/1=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "6",
+          "7",
+          "+",
+          "4",
+          "6",
+          "="
+        ],
+        "expression": "67+46=",
+        "value": 113.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0099.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "24/6=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0100.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "8",
+          "+",
+          "7",
+          "4",
+          "="
+        ],
+        "expression": "98+74=",
+        "value": 172.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0101.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "0",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "80/8=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "4*1=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "6",
+          "3",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "63/9=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0102.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "5*2=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0103.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "5",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "35/7=",
+        "value": 5.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "2*12=",
+        "value": 24.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "6*2=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0104.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "4",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "14/7=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "5",
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "50/5=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0105.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "8",
+          "-",
+          "3",
+          "="
+        ],
+        "expression": "18-3=",
+        "value": 15.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "6*7=",
+        "value": 42.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0106.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "8*2=",
+        "value": 16.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "11*5=",
+        "value": 55.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0107.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "9/9=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "12*8=",
+        "value": 96.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0108.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "4",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "24/2=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0109.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "5*3=",
+        "value": 15.0
+      },
+      {
+        "tokens": [
+          "2",
+          "5",
+          "-",
+          "1",
+          "5",
+          "="
+        ],
+        "expression": "25-15=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "8",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "8*9=",
+        "value": 72.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0110.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "4",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "54/9=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "11*2=",
+        "value": 22.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0111.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "8",
+          "-",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "98-16=",
+        "value": 82.0
+      },
+      {
+        "tokens": [
+          "3",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "3*3=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "2*5=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0112.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "10*9=",
+        "value": 90.0
+      },
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "10*1=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "7",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "7/1=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0113.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "35/5=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "5",
+          "6",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "56/8=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "7",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "7*3=",
+        "value": 21.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0114.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "8/2=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0115.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "7*10=",
+        "value": 70.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0116.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "4*3=",
+        "value": 12.0
+      },
+      {
+        "tokens": [
+          "8",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "8*1=",
+        "value": 8.0
+      },
+      {
+        "tokens": [
+          "7",
+          "4",
+          "-",
+          "2",
+          "7",
+          "="
+        ],
+        "expression": "74-27=",
+        "value": 47.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0117.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "40/5=",
+        "value": 8.0
+      },
+      {
+        "tokens": [
+          "7",
+          "*",
+          "6",
+          "="
+        ],
+        "expression": "7*6=",
+        "value": 42.0
+      },
+      {
+        "tokens": [
+          "7",
+          "0",
+          "-",
+          "4",
+          "6",
+          "="
+        ],
+        "expression": "70-46=",
+        "value": 24.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0118.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "6",
+          "+",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "16+12=",
+        "value": 28.0
+      },
+      {
+        "tokens": [
+          "7",
+          "7",
+          "-",
+          "6",
+          "5",
+          "="
+        ],
+        "expression": "77-65=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0119.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "8*9=",
+        "value": 72.0
+      },
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "6",
+          "="
+        ],
+        "expression": "10*6=",
+        "value": 60.0
+      },
+      {
+        "tokens": [
+          "3",
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "35/5=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0120.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "12*12=",
+        "value": 144.0
+      },
+      {
+        "tokens": [
+          "9",
+          "2",
+          "-",
+          "6",
+          "="
+        ],
+        "expression": "92-6=",
+        "value": 86.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0121.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "3",
+          "-",
+          "4",
+          "="
+        ],
+        "expression": "73-4=",
+        "value": 69.0
+      },
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "18/3=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "6",
+          "6",
+          "-",
+          "2",
+          "6",
+          "="
+        ],
+        "expression": "66-26=",
+        "value": 40.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0122.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "5",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "45/9=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0123.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "9*5=",
+        "value": 45.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0124.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "0",
+          "-",
+          "8",
+          "8",
+          "="
+        ],
+        "expression": "90-88=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "7",
+          "3",
+          "+",
+          "8",
+          "6",
+          "="
+        ],
+        "expression": "73+86=",
+        "value": 159.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "12*2=",
+        "value": 24.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0125.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "8",
+          "-",
+          "3",
+          "4",
+          "="
+        ],
+        "expression": "68-34=",
+        "value": 34.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0126.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "1",
+          "-",
+          "2",
+          "9",
+          "="
+        ],
+        "expression": "81-29=",
+        "value": 52.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0127.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "0",
+          "-",
+          "0",
+          "="
+        ],
+        "expression": "70-0=",
+        "value": 70.0
+      },
+      {
+        "tokens": [
+          "6",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "6*5=",
+        "value": 30.0
+      },
+      {
+        "tokens": [
+          "9",
+          "4",
+          "-",
+          "6",
+          "8",
+          "="
+        ],
+        "expression": "94-68=",
+        "value": 26.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0128.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "5",
+          "-",
+          "3",
+          "7",
+          "="
+        ],
+        "expression": "95-37=",
+        "value": 58.0
+      },
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "72/9=",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0129.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "2",
+          "+",
+          "2",
+          "0",
+          "="
+        ],
+        "expression": "42+20=",
+        "value": 62.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0130.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "5*10=",
+        "value": 50.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "2*7=",
+        "value": 14.0
+      },
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "18/6=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0131.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "5*10=",
+        "value": 50.0
+      },
+      {
+        "tokens": [
+          "8",
+          "5",
+          "+",
+          "1",
+          "5",
+          "="
+        ],
+        "expression": "85+15=",
+        "value": 100.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0132.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "12*2=",
+        "value": 24.0
+      },
+      {
+        "tokens": [
+          "2",
+          "1",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "21/3=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "9",
+          "7",
+          "-",
+          "3",
+          "1",
+          "="
+        ],
+        "expression": "97-31=",
+        "value": 66.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0133.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "0",
+          "+",
+          "6",
+          "4",
+          "="
+        ],
+        "expression": "70+64=",
+        "value": 134.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0134.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "0",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "20/2=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "5",
+          "8",
+          "+",
+          "1",
+          "6",
+          "="
+        ],
+        "expression": "58+16=",
+        "value": 74.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "12*1=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0135.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "4",
+          "+",
+          "4",
+          "4",
+          "="
+        ],
+        "expression": "54+44=",
+        "value": 98.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0136.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "7*3=",
+        "value": 21.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0137.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "7/7=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "18/9=",
+        "value": 2.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0138.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "4",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "54/9=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "3",
+          "5",
+          "-",
+          "2",
+          "4",
+          "="
+        ],
+        "expression": "35-24=",
+        "value": 11.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "12-8=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0139.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "1",
+          "+",
+          "5",
+          "6",
+          "="
+        ],
+        "expression": "51+56=",
+        "value": 107.0
+      },
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "4*12=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "5",
+          "2",
+          "-",
+          "3",
+          "8",
+          "="
+        ],
+        "expression": "52-38=",
+        "value": 14.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0140.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "4",
+          "+",
+          "8",
+          "2",
+          "="
+        ],
+        "expression": "44+82=",
+        "value": 126.0
+      },
+      {
+        "tokens": [
+          "3",
+          "6",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "36/3=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0141.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "1",
+          "+",
+          "5",
+          "2",
+          "="
+        ],
+        "expression": "71+52=",
+        "value": 123.0
+      },
+      {
+        "tokens": [
+          "8",
+          "2",
+          "-",
+          "4",
+          "2",
+          "="
+        ],
+        "expression": "82-42=",
+        "value": 40.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0142.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "7*11=",
+        "value": 77.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0143.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "5*1=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0144.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "0",
+          "-",
+          "3",
+          "0",
+          "="
+        ],
+        "expression": "50-30=",
+        "value": 20.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0145.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "5*5=",
+        "value": 25.0
+      },
+      {
+        "tokens": [
+          "9",
+          "2",
+          "+",
+          "6",
+          "0",
+          "="
+        ],
+        "expression": "92+60=",
+        "value": 152.0
+      },
+      {
+        "tokens": [
+          "9",
+          "4",
+          "-",
+          "1",
+          "8",
+          "="
+        ],
+        "expression": "94-18=",
+        "value": 76.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0146.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "4*7=",
+        "value": 28.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0147.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "6",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "16/8=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "6",
+          "7",
+          "+",
+          "4",
+          "="
+        ],
+        "expression": "67+4=",
+        "value": 71.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0148.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "0",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "90-8=",
+        "value": 82.0
+      },
+      {
+        "tokens": [
+          "1",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "1*10=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "0",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "0/1=",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0149.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "3/3=",
+        "value": 1.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0150.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "6*5=",
+        "value": 30.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0151.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "9",
+          "-",
+          "2",
+          "8",
+          "="
+        ],
+        "expression": "89-28=",
+        "value": 61.0
+      },
+      {
+        "tokens": [
+          "6",
+          "3",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "63/9=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0152.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "10*2=",
+        "value": 20.0
+      },
+      {
+        "tokens": [
+          "0",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "0/5=",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0153.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "2",
+          "+",
+          "4",
+          "0",
+          "="
+        ],
+        "expression": "22+40=",
+        "value": 62.0
+      },
+      {
+        "tokens": [
+          "7",
+          "2",
+          "-",
+          "3",
+          "0",
+          "="
+        ],
+        "expression": "72-30=",
+        "value": 42.0
+      },
+      {
+        "tokens": [
+          "6",
+          "4",
+          "+",
+          "9",
+          "5",
+          "="
+        ],
+        "expression": "64+95=",
+        "value": 159.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0154.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "0/6=",
+        "value": 0.0
+      },
+      {
+        "tokens": [
+          "9",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "9*7=",
+        "value": 63.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0155.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "4*12=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "9",
+          "4",
+          "-",
+          "4",
+          "9",
+          "="
+        ],
+        "expression": "94-49=",
+        "value": 45.0
+      },
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "72/6=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0156.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "72/9=",
+        "value": 8.0
+      },
+      {
+        "tokens": [
+          "9",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "9*2=",
+        "value": 18.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0157.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "2",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "22/2=",
+        "value": 11.0
+      },
+      {
+        "tokens": [
+          "6",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "6/3=",
+        "value": 2.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0158.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "1",
+          "+",
+          "5",
+          "5",
+          "="
+        ],
+        "expression": "21+55=",
+        "value": 76.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0159.png",
+    "equations": [
+      {
+        "tokens": [
+          "4",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "4*12=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "1",
+          "*",
+          "7",
+          "="
+        ],
+        "expression": "1*7=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0160.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "2",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "12/3=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "5",
+          "0",
+          "-",
+          "4",
+          "0",
+          "="
+        ],
+        "expression": "50-40=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0161.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "6/6=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "9",
+          "3",
+          "+",
+          "5",
+          "9",
+          "="
+        ],
+        "expression": "93+59=",
+        "value": 152.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0162.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "0",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "30/3=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "1",
+          "4",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "14/2=",
+        "value": 7.0
+      },
+      {
+        "tokens": [
+          "4",
+          "6",
+          "+",
+          "8",
+          "9",
+          "="
+        ],
+        "expression": "46+89=",
+        "value": 135.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0163.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "2",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "72/6=",
+        "value": 12.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0164.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "7",
+          "-",
+          "4",
+          "7",
+          "="
+        ],
+        "expression": "57-47=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0165.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "8/2=",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0166.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "6*8=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "1",
+          "4",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "14/2=",
+        "value": 7.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0167.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "+",
+          "4",
+          "3",
+          "="
+        ],
+        "expression": "2+43=",
+        "value": 45.0
+      },
+      {
+        "tokens": [
+          "7",
+          "0",
+          "-",
+          "2",
+          "0",
+          "="
+        ],
+        "expression": "70-20=",
+        "value": 50.0
+      },
+      {
+        "tokens": [
+          "8",
+          "1",
+          "-",
+          "2",
+          "3",
+          "="
+        ],
+        "expression": "81-23=",
+        "value": 58.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0168.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "0/7=",
+        "value": 0.0
+      },
+      {
+        "tokens": [
+          "6",
+          "8",
+          "+",
+          "2",
+          "3",
+          "="
+        ],
+        "expression": "68+23=",
+        "value": 91.0
+      },
+      {
+        "tokens": [
+          "9",
+          "0",
+          "/",
+          "9",
+          "="
+        ],
+        "expression": "90/9=",
+        "value": 10.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0169.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "0",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "30/3=",
+        "value": 10.0
+      },
+      {
+        "tokens": [
+          "3",
+          "9",
+          "-",
+          "1",
+          "4",
+          "="
+        ],
+        "expression": "39-14=",
+        "value": 25.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0170.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "3",
+          "-",
+          "4",
+          "9",
+          "="
+        ],
+        "expression": "73-49=",
+        "value": 24.0
+      },
+      {
+        "tokens": [
+          "3",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "3*3=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "6",
+          "2",
+          "+",
+          "1",
+          "7",
+          "="
+        ],
+        "expression": "62+17=",
+        "value": 79.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0171.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "7",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "77/7=",
+        "value": 11.0
+      },
+      {
+        "tokens": [
+          "9",
+          "7",
+          "+",
+          "2",
+          "8",
+          "="
+        ],
+        "expression": "97+28=",
+        "value": 125.0
+      },
+      {
+        "tokens": [
+          "9",
+          "9",
+          "-",
+          "5",
+          "8",
+          "="
+        ],
+        "expression": "99-58=",
+        "value": 41.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0172.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "*",
+          "1",
+          "="
+        ],
+        "expression": "9*1=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "9",
+          "4",
+          "+",
+          "8",
+          "3",
+          "="
+        ],
+        "expression": "94+83=",
+        "value": 177.0
+      },
+      {
+        "tokens": [
+          "5",
+          "6",
+          "+",
+          "1",
+          "5",
+          "="
+        ],
+        "expression": "56+15=",
+        "value": 71.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0173.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "7",
+          "/",
+          "3",
+          "="
+        ],
+        "expression": "27/3=",
+        "value": 9.0
+      },
+      {
+        "tokens": [
+          "9",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "9*5=",
+        "value": 45.0
+      },
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "10*5=",
+        "value": 50.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0174.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "3",
+          "="
+        ],
+        "expression": "11*3=",
+        "value": 33.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0175.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "6",
+          "/",
+          "8",
+          "="
+        ],
+        "expression": "16/8=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "5",
+          "1",
+          "+",
+          "6",
+          "5",
+          "="
+        ],
+        "expression": "51+65=",
+        "value": 116.0
+      },
+      {
+        "tokens": [
+          "9",
+          "9",
+          "+",
+          "9",
+          "3",
+          "="
+        ],
+        "expression": "99+93=",
+        "value": 192.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0176.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "3",
+          "-",
+          "3",
+          "4",
+          "="
+        ],
+        "expression": "63-34=",
+        "value": 29.0
+      },
+      {
+        "tokens": [
+          "5",
+          "+",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "5+12=",
+        "value": 17.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0177.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "6/1=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "2",
+          "*",
+          "1",
+          "1",
+          "="
+        ],
+        "expression": "2*11=",
+        "value": 22.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0178.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "55/5=",
+        "value": 11.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0179.png",
+    "equations": [
+      {
+        "tokens": [
+          "0",
+          "+",
+          "2",
+          "7",
+          "="
+        ],
+        "expression": "0+27=",
+        "value": 27.0
+      },
+      {
+        "tokens": [
+          "0",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "0/1=",
+        "value": 0.0
+      },
+      {
+        "tokens": [
+          "6",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "6/2=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0180.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "6*5=",
+        "value": 30.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0181.png",
+    "equations": [
+      {
+        "tokens": [
+          "6",
+          "7",
+          "-",
+          "8",
+          "="
+        ],
+        "expression": "67-8=",
+        "value": 59.0
+      },
+      {
+        "tokens": [
+          "1",
+          "2",
+          "*",
+          "4",
+          "="
+        ],
+        "expression": "12*4=",
+        "value": 48.0
+      },
+      {
+        "tokens": [
+          "1",
+          "7",
+          "+",
+          "9",
+          "6",
+          "="
+        ],
+        "expression": "17+96=",
+        "value": 113.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0182.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "2",
+          "="
+        ],
+        "expression": "11*2=",
+        "value": 22.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0183.png",
+    "equations": [
+      {
+        "tokens": [
+          "9",
+          "5",
+          "-",
+          "5",
+          "0",
+          "="
+        ],
+        "expression": "95-50=",
+        "value": 45.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0184.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "0",
+          "+",
+          "6",
+          "3",
+          "="
+        ],
+        "expression": "30+63=",
+        "value": 93.0
+      },
+      {
+        "tokens": [
+          "3",
+          "5",
+          "/",
+          "7",
+          "="
+        ],
+        "expression": "35/7=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0185.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "+",
+          "3",
+          "3",
+          "="
+        ],
+        "expression": "1+33=",
+        "value": 34.0
+      },
+      {
+        "tokens": [
+          "1",
+          "1",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "11*12=",
+        "value": 132.0
+      },
+      {
+        "tokens": [
+          "3",
+          "5",
+          "-",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "35-10=",
+        "value": 25.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0186.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "8/2=",
+        "value": 4.0
+      },
+      {
+        "tokens": [
+          "5",
+          "5",
+          "+",
+          "1",
+          "4",
+          "="
+        ],
+        "expression": "55+14=",
+        "value": 69.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0187.png",
+    "equations": [
+      {
+        "tokens": [
+          "8",
+          "9",
+          "-",
+          "1",
+          "="
+        ],
+        "expression": "89-1=",
+        "value": 88.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0188.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "*",
+          "6",
+          "="
+        ],
+        "expression": "3*6=",
+        "value": 18.0
+      },
+      {
+        "tokens": [
+          "7",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "7*5=",
+        "value": 35.0
+      },
+      {
+        "tokens": [
+          "6",
+          "3",
+          "+",
+          "5",
+          "8",
+          "="
+        ],
+        "expression": "63+58=",
+        "value": 121.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0189.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "*",
+          "1",
+          "0",
+          "="
+        ],
+        "expression": "2*10=",
+        "value": 20.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0190.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "1",
+          "+",
+          "5",
+          "="
+        ],
+        "expression": "31+5=",
+        "value": 36.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0191.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "0",
+          "/",
+          "4",
+          "="
+        ],
+        "expression": "20/4=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0192.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "*",
+          "9",
+          "="
+        ],
+        "expression": "2*9=",
+        "value": 18.0
+      },
+      {
+        "tokens": [
+          "5",
+          "1",
+          "+",
+          "8",
+          "="
+        ],
+        "expression": "51+8=",
+        "value": 59.0
+      },
+      {
+        "tokens": [
+          "5",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "5/1=",
+        "value": 5.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0193.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "0",
+          "*",
+          "8",
+          "="
+        ],
+        "expression": "10*8=",
+        "value": 80.0
+      },
+      {
+        "tokens": [
+          "3",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "3/1=",
+        "value": 3.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0194.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "/",
+          "5",
+          "="
+        ],
+        "expression": "5/5=",
+        "value": 1.0
+      },
+      {
+        "tokens": [
+          "2",
+          "/",
+          "1",
+          "="
+        ],
+        "expression": "2/1=",
+        "value": 2.0
+      },
+      {
+        "tokens": [
+          "6",
+          "6",
+          "-",
+          "5",
+          "2",
+          "="
+        ],
+        "expression": "66-52=",
+        "value": 14.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0195.png",
+    "equations": [
+      {
+        "tokens": [
+          "1",
+          "8",
+          "/",
+          "2",
+          "="
+        ],
+        "expression": "18/2=",
+        "value": 9.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0196.png",
+    "equations": [
+      {
+        "tokens": [
+          "7",
+          "*",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "7*12=",
+        "value": 84.0
+      },
+      {
+        "tokens": [
+          "2",
+          "5",
+          "+",
+          "1",
+          "7",
+          "="
+        ],
+        "expression": "25+17=",
+        "value": 42.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0197.png",
+    "equations": [
+      {
+        "tokens": [
+          "3",
+          "6",
+          "/",
+          "6",
+          "="
+        ],
+        "expression": "36/6=",
+        "value": 6.0
+      },
+      {
+        "tokens": [
+          "8",
+          "*",
+          "5",
+          "="
+        ],
+        "expression": "8*5=",
+        "value": 40.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0198.png",
+    "equations": [
+      {
+        "tokens": [
+          "2",
+          "7",
+          "+",
+          "4",
+          "1",
+          "="
+        ],
+        "expression": "27+41=",
+        "value": 68.0
+      },
+      {
+        "tokens": [
+          "8",
+          "6",
+          "+",
+          "3",
+          "8",
+          "="
+        ],
+        "expression": "86+38=",
+        "value": 124.0
+      },
+      {
+        "tokens": [
+          "5",
+          "9",
+          "-",
+          "1",
+          "2",
+          "="
+        ],
+        "expression": "59-12=",
+        "value": 47.0
+      }
+    ]
+  },
+  {
+    "image": "images\\eq_0199.png",
+    "equations": [
+      {
+        "tokens": [
+          "5",
+          "1",
+          "-",
+          "4",
+          "7",
+          "="
+        ],
+        "expression": "51-47=",
+        "value": 4.0
+      }
+    ]
+  }
+]

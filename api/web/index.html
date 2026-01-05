@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+    <title>Ručne písaný riešič rovníc</title>
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap'
+    />
+    <link rel='stylesheet' href='styles.css' />
+  </head>
+  <body>
+    <nav class='nav'>
+      <div class='nav-inner'>
+        <div class='nav-links'>
+          <a class='nav-link' href='index.html' aria-current='page'>Domov</a>
+          <a class='nav-link' href='summary.html'>Zhrnutie</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class='wrap'>
+      <header>
+        <h1>Ručne písaný riešič rovníc</h1>
+        <p>Nakreslite príklad a za neho znamieko = a príklad sa vypočíta</p>
+        <ul class='intro-list'>
+          <li>Podporované číslice: 0 až 9.</li>
+          <li>Podporované operátory: +, -, ÷, x.</li>
+          <li>Keď na koniec príkladu dopíšete znak =, príklad sa automaticky vypočíta.</li>
+          <li>Môžete písať viac príkladov pod seba.</li>
+        </ul>
+      </header>
+
+      <section class='board'>
+        <div class='board-inner'>
+          <canvas id='board' width='900' height='400'></canvas>
+          <canvas id='overlay' width='900' height='400'></canvas>
+        </div>
+      </section>
+
+      <section class='controls'>
+        <button id='clearBtn'>Vymazať</button>
+        <label class='brush'>
+          Štetec
+          <input id='brushSize' type='range' min='4' max='24' value='12' />
+        </label>
+      </section>
+
+      
+      <section class='output'>
+        <div class='output-row'>
+          <span class='label'>Výraz:</span>
+          <div id='expression' class='output-value'>-</div>
+        </div>
+        <div class='output-row'>
+          <span class='label'>Výsledok:</span>
+          <div id='result' class='output-value'>-</div>
+        </div>
+        <div class='output-row'>
+          <span class='label'>Rovnice:</span>
+          <span id='eqCount'>0</span>
+        </div>
+        <!--
+          <pre id='raw' class='raw'></pre>
+        -->
+      </section>
+      
+    </main>
+
+    <script src='app.js'></script>
+  </body>
+</html>

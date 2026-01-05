@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang='sk'>
+  <head>
+    <meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+    <title>Zhrnutie projektu</title>
+    <link
+      rel='stylesheet'
+      href='https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap'
+    />
+    <link rel='stylesheet' href='styles.css' />
+  </head>
+  <body>
+    <nav class='nav'>
+      <div class='nav-inner'>
+        <div class='nav-links'>
+          <a class='nav-link' href='index.html'>Domov</a>
+          <a class='nav-link' href='summary.html' aria-current='page'>Zhrnutie</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class='wrap'>
+      <header>
+        <h1>Zhrnutie projektu</h1>
+      </header>
+
+      <section class='summary summary-page'>
+        <h2>Metódy a výsledky</h2>
+        <p class='summary-lead'>
+          Systém segmentuje kresbu na symboly, klasifikuje každý symbol a
+          vyhodnotí výsledný príklad.
+        </p>
+
+        <div class='summary-text'>
+          <h3>Dáta</h3>
+          <p>
+            Bol použitý dataset (https://www.kaggle.com/datasets/sagyamthapa/handwritten-math-symbols) ktorý obsahuje 8 384 symbolov v 15 triedach: číslice 0-9
+            a operátory +, -, ÷, x, =. Počty tried sa pohybujú v rozmedzí
+            433-655 vzoriek.Pre lepšie pokrytie
+            rôznych rukopisov sú číslice doplnené o MNIST dataset.
+          </p>
+
+          <h3>Predspracovanie</h3>
+          <p>
+            Každý symbol sa prevedie do odtieňov sivej, invertuje a
+            oreže. Následne sa zmenší a, vycentruje
+            do 28x28. Výsledné vstupy sú normalizované
+            do intervalu [0, 1].
+          </p>
+
+          <h3>Model</h3>
+          <p>
+            Použitý je MLPClassifier s vrstvami (256, 128), aktiváciou ReLU
+            a optimalizátorom Adam. Tréning používa batch size 256, early
+            stopping a maximálne 20 epoch. Model sa učí na kombinácii
+            MNIST číslic a lokálnych operátorov.
+            Ako baseline sme trénovali aj len na lokálnom datasete (bez MNIST),
+            kde presnosť na symboloch bola 0.935. Po doplnení MNIST číslic
+            presnosť stúpla na 0.978.
+          </p>
+
+          <h3>Porovnanie s GPT-4o</h3>
+          <p>
+            Na syntetickom teste (200 obrázkov, na každom 1 až 3 príkladov, spolu 404 príkladov,
+            príklad typu: "číslo operátor číslo =") vygenrovaného z našeho datasetu
+            sme porovnali náš pipeline s modelom GPT-4o. GPT-4o správne prečítal celý
+            príklad v 84.4 % prípadov a správne vypočítal výsledok v 84.9 % prípadov,
+            náš model dosiahol 80.0 % a 80.4 %.
+          </p>
+          <figure class='summary-figure'>
+            <img
+              src='eq_0124.png'
+              alt='Ukážka syntetickej rovnice'
+              loading='lazy'
+            />
+            <figcaption>Ukážka syntetického vstupu.</figcaption>
+          </figure>
+
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
