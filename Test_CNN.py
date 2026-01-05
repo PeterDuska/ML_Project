@@ -58,7 +58,6 @@ class App:
         ttk.Button(frame, text="Solve", command=self.solve).grid(row=6, column=1, sticky="we", pady=(6, 0))
         ttk.Button(frame, text="Clear", command=self.clear).grid(row=7, column=1, sticky="we")
 
-        # Backing image for preprocessing
         self.image = Image.new("L", (CANVAS_SIZE, CANVAS_SIZE), 255)
         self.draw = ImageDraw.Draw(self.image)
 

@@ -149,8 +149,7 @@ def main() -> None:
     if args.limit and args.limit > 0:
         items = items[: args.limit]
 
-    # If you set OPENAI_API_KEY above, pass it explicitly here.
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    #client = OpenAI(api_key=OPENAI_API_KEY)
     #client = OpenAI()
     preds_path = data_dir / args.preds
     out_path = data_dir / args.out
